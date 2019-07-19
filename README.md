@@ -1,0 +1,1 @@
+# MailWizz-AddOn
